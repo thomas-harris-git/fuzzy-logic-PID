@@ -1,6 +1,6 @@
 # Fuzzy & PID controller (University Assignment)
 
-Project: Fuzzy & PID controller for wall following Robot (Individual Project)
+Project: Fuzzy & PID controller for wall following Robot
 
 Technology: Pioneer Mobile Robot, Visual Studio, C++, Windows
 
